@@ -1,3 +1,3 @@
 $function(){
-  $('h1').hide(2000);
+  $('h1').slideUp();
 }
