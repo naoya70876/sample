@@ -1,2 +1,1 @@
-let name=1;
-console.log(name);
+$('h1').hide(2000);
